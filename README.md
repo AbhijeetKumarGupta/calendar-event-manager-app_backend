@@ -1,6 +1,6 @@
 # calendar-event-manager-app_backend
 
-Deployed Link - https://calendar-backend-api.herokuapp.com/
+Deployed Link - https://calendar-app-backend-fedx.onrender.com/
 
 Steps to run :-
 1. Pull the repository in your local system.
